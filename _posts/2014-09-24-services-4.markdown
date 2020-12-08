@@ -1,0 +1,11 @@
+---
+layout: default
+img: python.png
+category: Documents
+title: Python
+description: |
+---
+  Begin to understand the basics of the Python Programming languages. From the object oriented implementation to intricate paradigms this is a great place to get started. 
+
+  [Learn Python Basics](https://www.python.markinfo.dev/)
+
