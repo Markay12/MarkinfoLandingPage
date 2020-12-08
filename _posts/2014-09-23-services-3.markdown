@@ -1,8 +1,13 @@
 ---
 layout: default
-img: phones.png
-category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+img: datastructure.jpg
+category: Documents
+title: Data Structures
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+  Basic data structures:  
+  Includes Binary Search Trees, Binary Trees and Linked Lists    
+  Advantages and Disadvantages to certain types of structures and where to use them
+
+  [Learn Basic Data Structures](https://www.datastructures.markinfo.dev/)
+

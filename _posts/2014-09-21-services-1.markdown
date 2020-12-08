@@ -11,3 +11,5 @@ description: |
 1. C++ dependance on hardware and memory. Due to being a C derived language, there are a lot of opportunities for users to interact with low-level language. This can inevitably lead to better software development and optimization of programs.  
 2. C++ is the most widely used programming languages in application and system programming  
 3. With various ways to code, Object Orientation is one that C++ can soar with and you along with it. Learn the implementation of the 4 rules of OOP
+
+[Get Started Learning Cpp](https://www.learncpp.markinfo.dev/)

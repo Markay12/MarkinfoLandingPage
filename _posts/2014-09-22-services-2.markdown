@@ -1,10 +1,11 @@
 ---
 layout: default
-img: dog.png
-category: Services
-title: 3D Device Mockups<br>by PSDCovers
+img: cloud.jpg
+category: Documents
+title: Cloud Computing
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  Different cloud computing service models including IaaS, PaaS and SaaS  
+  Learn how to work with virtual machines and cloud machines and their benefits for you personally or your business.
+
+  [Learn Cloud Computing](https://www.cloud.markinfo.dev/)

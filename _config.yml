@@ -2,16 +2,14 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+url: https://www.markinfo.dev/
+title: Documentation and Projects | Computer Systems Information
+email: <a href="mailto:ashinhust.brass@gmail.com">ashinhust.brass@gmail.com</a>
+author: Mark Ashinhust
+description: >  
+  Below contains multiple modules of information in regards to Systems Information and Engineering.
+  From programming paradigms to Math and Science, this is everything I learn along the way and want to share with you.
+  Feel free to email me with any questions
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,9 +24,9 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
   - title: linkedin
-    url: 
+    url: https://www.linkedin.com/in/mark-ashinhust-3aa5b9193/
+  - title: github
+    url: https://github.com/markay12
+  - title: email
+    url: mailto:ashinhust.brass@gmail.com
