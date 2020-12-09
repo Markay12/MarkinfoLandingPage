@@ -5,5 +5,5 @@ category: Documents
 title: My Projects
 description: |
 ---
-  Personal projects that I have worked on. Many of this will still be active  
-  <a href="My Projects" class="btn btn-default btn-lg"><i class="fa fa-projects fa-fw"></i> <span class="network-name">My Projects</span></a>
+  Personal projects that I have worked on. Many of these will still be active  
+  <a href="https://www.projects.markinfo.dev/" class="btn btn-default btn-lg"><span class="network-name">My Projects</span></a>
