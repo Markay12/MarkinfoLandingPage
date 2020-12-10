@@ -1,6 +1,6 @@
 ---
 layout: default
-img: projects.png
+img: projects.jpg
 category: Documents
 title: My Projects
 description: |
